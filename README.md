@@ -38,9 +38,7 @@
 ## 🌸 
 
 <p align="center">
-  <img src="https://tenor.com/view/cute-cats-gif-17601668648809214970" width="220"/>
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="220"/>
-  <img src="https://tenor.com/view/bt21-chimmy-jimin-park-coffee-gif-14065213" width="220"/>
 </p>
 
 <br>
