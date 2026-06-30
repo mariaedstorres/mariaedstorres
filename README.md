@@ -42,7 +42,3 @@
 </p>
 
 <br>
-
-<p align="center">
-  <i>✨ Em transição de carreira, unindo experiência industrial com paixão por tecnologia ✨</i>
-</p>
